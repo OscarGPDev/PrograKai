@@ -29,6 +29,7 @@ def operadores() -> None:
     variable % 5
     variable * 5
     # operadores de asignacion
+    variable = 10
     variable += 1  # variable = variable + 1
     variable -= 1  # variable = variable - 1
     variable /= 1  # variable = variable / 1
