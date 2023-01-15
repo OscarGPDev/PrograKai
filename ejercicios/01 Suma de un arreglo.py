@@ -1,0 +1,1 @@
+# Crea un programa con una funcion que REGRESE el total de la suma de elementos de un arreglo numerico

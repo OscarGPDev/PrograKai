@@ -1,2 +1,2 @@
 # PrograKai
-An educational repo I made to help a friend to 
+Un repositorio que hice para ayudar a un amigo a aprender a programar con python
